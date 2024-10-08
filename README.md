@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeswanth Soma</h1>
-<h3 align="center">As Software Engineer from India</h3>
+<h3 align="center">Software Engineer At Google</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yesh2344&label=Profile%20views&color=0e75b6&style=flat" alt="yesh2344" /> </p>
 
