@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesh2344" alt="yesh2344" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://yeswanthsoma.streamlit.app/](https://yeswanthsoma.streamlit.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://yeswanthsoma.streamlit.app/)
 
 - 💬 Ask me about **Python, Golang and AWS**
 
@@ -196,40 +196,7 @@
 
 
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
-<details>
-  <summary><strong>OPEN SOURCE SOFTWARE</strong></summary><br/>
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h4 align="center">Dotfiles</h4>
-        <p align="center">
-          <a href="https://github.com/aharoJ/dotfiles">
-            <img style="display: block; margin: 0 auto;" 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dotfiles&theme=dracula" />
-          </a>
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <h4 align="center">Starship</h4>
-        <p align="center">
-          <a href="https://github.com/aharoJ/dot-starship">
-            <img style="display: block; margin: 0 auto;" 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=dot-starship&theme=dracula" />
-          </a>
-        </p>
-      </td>
-      <td valign="top" width="33%">
-        <h4 align="center">Portfolio</h4>
-        <p align="center">
-          <a href="https://github.com/aharoJ/nextJs_portfolio">
-            <img style="display: block; margin: 0 auto;" 
-            src="https://github-readme-stats.vercel.app/api/pin/?username=aharoJ&repo=nextJs_portfolio&theme=dracula" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</details>
+
 <!-- # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     .................................       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ # -->
 </div>
 
