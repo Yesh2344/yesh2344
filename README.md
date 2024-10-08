@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yesh2344" alt="yesh2344" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://yeswanthsoma.streamlit.app/](https://yeswanthsoma.streamlit.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://yeswanthsoma.streamlit.app/)
 
 - 💬 Ask me about **Python, Golang and AWS**
 
