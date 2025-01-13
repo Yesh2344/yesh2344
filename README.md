@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://yeswanthsoma.streamlit.app/)
 
-- 💬 Ask me about **Python, Golang and AWS**
+- 💬 Ask me about **Python, Golang and AWS** **Front End** **Backend**
 
 - 📫 How to reach me **yeswanthsoma83@gmail.com**
 
